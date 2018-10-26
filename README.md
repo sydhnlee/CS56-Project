@@ -1,5 +1,8 @@
 # CS56-Project
 
+Discord: https://discord.gg/4e9awCG
+UML: https://drive.google.com/file/d/1QT3s3ZXCgG22vMMEKonogFGXW_dIbd4s/view?usp=sharing
+
 Initial tasks that I'd like each person to accomplish:
 
 Syd - 
@@ -23,3 +26,4 @@ Soon - Create the Exercise class and compile a list of 2-4 exercises that focus 
        
 IMPORTANT NOTE: BodyPartSelection and RecommendExercises will most likely take the most time to complete so it will be something we all
                 work on together. 
+                
