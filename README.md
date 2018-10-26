@@ -1,6 +1,7 @@
 # CS56-Project
 
 Discord: https://discord.gg/4e9awCG
+
 UML: https://drive.google.com/file/d/1QT3s3ZXCgG22vMMEKonogFGXW_dIbd4s/view?usp=sharing
 
 Initial tasks that I'd like each person to accomplish:
