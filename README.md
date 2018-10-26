@@ -24,6 +24,6 @@ Soon - Create the Exercise class and compile a list of 2-4 exercises that focus 
        Once this list is created, implement each exercise as its own class and have them extend the Exercise class.
        
        
-IMPORTANT NOTE: BodyPartSelection and RecommendExercises will most likely take the most time to complete so it will be something we all
+**IMPORTANT NOTE:** BodyPartSelection and RecommendExercises will most likely take the most time to complete so it will be something we all
                 work on together. 
                 
