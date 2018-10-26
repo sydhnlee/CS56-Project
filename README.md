@@ -6,8 +6,8 @@ UML: https://drive.google.com/file/d/1QT3s3ZXCgG22vMMEKonogFGXW_dIbd4s/view?usp=
 **Initial tasks:**
 
 Syd - 
-       Create rough draft of the GreetScreen window with JavaFX (Buttons, TextFields and other necessary nodes should be implemented)
-       Add functionality so that information entered into TextFields is used to create an instance of User class
+       Create User class and rough draft of the GreetScreen window with JavaFX (Buttons, TextFields and other necessary nodes should be
+       implemented). Add functionality so that information entered into TextFields is used to create an instance of User class
        
 Ki - 
        Create rough draft of the GoalSelection window with JavaFX (Buttons and any other necessary nodes should be implemented)
