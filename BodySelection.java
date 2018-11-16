@@ -17,6 +17,8 @@ public class BodySelection extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("ok.fxml"));
+        /*
+
         GridPane pane = new GridPane();
         Image frank = new Image("https://i.imgur.com/TvgAqv4.jpg");
         Image hungFrank = new Image("https://i.imgur.com/2EE3KQZ.jpg");
@@ -30,7 +32,7 @@ public class BodySelection extends Application {
             @Override
             public void handle(MouseEvent event) {
                 System.out.println("Click");
-               // hello.setImage(hungFrank);
+                hello.setImage(hungFrank);
 
             }
         });
@@ -41,11 +43,12 @@ public class BodySelection extends Application {
             @Override
             public void handle(MouseEvent event) {
                 System.out.println("Clack");
-               // hello.setImage(frank);
+                hello.setImage(frank);
             }
         });
         pane.getChildren().add(hello);
-
+        
+        */
         Scene scene = new Scene(root);
 
 
