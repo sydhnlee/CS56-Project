@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 import javafx.scene.image.Image;
 
 
-public class BodySelection extends Application {
+public class GoalSelection extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("ok.fxml"));
