@@ -46,7 +46,7 @@ public class GoalSelection extends Application {
         Scene scene = new Scene(root);
 
 
-        primaryStage.setTitle("Body Select");
+        primaryStage.setTitle("Goal Selection");
         primaryStage.setScene(scene);
         primaryStage.setHeight(800);
         primaryStage.setWidth(600);
