@@ -158,6 +158,28 @@ public class Main extends Application {
                 }
             }
         });
+        
+        /*
+        
+        Dashboard main stage
+        
+            @Override
+    public void start(Stage primaryStage) throws Exception {
+       try{ Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
+        Scene sceneD = new Scene(root, 684, 346);
+        primaryStage.setScene(sceneD);
+        primaryStage.show();
+    }catch(Exception e)
+    {
+        e.printStackTrace();}
+
+    }
+        
+        
+        */
+        
+        
+        
     }
 
 
