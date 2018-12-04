@@ -61,6 +61,23 @@ else if(gender =='F')
 
     void calculateMacros(double tdee)
     {
+        double proteins = weight * 2.2 * 0.825;
+
+    System.out.println("Proteins = " + proteins);
+
+    double fat = tdee * 0.25 / 9;
+
+    System.out.println("Fat = " + fat);
+
+    double carbs = (tdee - (protein * 4) - (fat * 9)) / 4;
+
+    System.out.println("Carbs = " + carbs);
+
+    double macros = proteins + fat + carbs;
+
+    System.out.println("Total Macros = " + macros);
+
+
 
     }
 
