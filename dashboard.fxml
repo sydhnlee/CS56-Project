@@ -1,3 +1,14 @@
+/* fxml for dashboard which creates a window with a label, pane and 4 buttons.
+Each button will bring up a different scene
+
+Basic looking just for now.
+
+Was not able to find pagination uses with fxml files. It was mostly for printing data.
+So i tried to create something similar to pagination.
+
+
+*/
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.Button?>
