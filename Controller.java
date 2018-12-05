@@ -51,23 +51,28 @@ public class Controller implements Initializable {
     }
 
     @FXML
-    void Scene1Action(ActionEvent event) throws IOException {
-this.createPage(homePane,"Scene1.fxml");
+    public void scene1Action(javafx.event.ActionEvent actionEvent) throws IOException {
+        this.createPage(homePane,"scene1.fxml");
     }
 
     @FXML
-    void Scene2Action(ActionEvent event) throws IOException {
-        this.createPage(homePane,"Scene2.fxml");
+    public void scene2Action(javafx.event.ActionEvent actionEvent) throws IOException {
+        this.createPage(homePane,"scene2.fxml");
     }
 
     @FXML
-    void Scene3Action(ActionEvent event) throws IOException {
-        this.createPage(homePane,"Scene13.fxml");
+    public void scene3Action(javafx.event.ActionEvent actionEvent) throws IOException {
+        this.createPage(homePane,"scene3.fxml");
     }
 
     @FXML
-    void Scene4Action(ActionEvent event) throws IOException {
-        this.createPage(homePane,"Scene4.fxml");
+    public void scene4Action(javafx.event.ActionEvent actionEvent) throws IOException {
+        this.createPage(homePane,"scene4.fxml");
+    }
+
+    @FXML
+    public void scene5Action(javafx.event.ActionEvent actionEvent) throws IOException {
+        this.createPage(homePane,"scene5.fxml");
     }
 
 
