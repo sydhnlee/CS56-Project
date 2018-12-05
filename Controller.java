@@ -21,7 +21,7 @@ import javafx.scene.layout.Pane;
 
 public class Controller implements Initializable {
     @FXML
-    private Button pane;
+    private Pane pane;
 
     AnchorPane homePane;
 
