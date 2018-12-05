@@ -1,5 +1,5 @@
-/* fxml for dashboard which creates a window with a label, pane and 4 buttons.
-Each button will bring up a different scene
+/* fxml for dashboard which creates a window with a label, pane and 5 buttons.
+Each button will bring up a different scene inside the pane.
 
 Basic looking just for now.
 
