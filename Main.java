@@ -166,7 +166,7 @@ public class Main extends Application {
             @Override
     public void start(Stage primaryStage) throws Exception {
        try{ Parent root = FXMLLoader.load(getClass().getResource("dashboard.fxml"));
-        Scene sceneD = new Scene(root, 684, 346);
+        Scene sceneD = new Scene(root, 917, 518);
         primaryStage.setScene(sceneD);
         primaryStage.show();
     }catch(Exception e)
