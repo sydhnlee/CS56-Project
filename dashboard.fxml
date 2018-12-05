@@ -21,7 +21,7 @@ So i tried to create something similar to pagination.
 <?import javafx.scene.text.Font?>
 
 
-<GridPane alignment="center" hgap="10" vgap="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="sample.Controller">
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <columnConstraints>
       <ColumnConstraints />
    </columnConstraints>
@@ -29,19 +29,19 @@ So i tried to create something similar to pagination.
       <RowConstraints />
    </rowConstraints>
    <children>
-      <AnchorPane prefHeight="394.0" prefWidth="741.0">
+      <AnchorPane prefHeight="406.0" prefWidth="741.0">
          <children>
-            <Label layoutX="270.0" layoutY="6.0" prefHeight="76.0" prefWidth="236.0" text="Dashboard">
+            <Label layoutX="270.0" layoutY="-18.0" prefHeight="73.0" prefWidth="234.0" text="Dashboard">
                <font>
                   <Font size="39.0" />
                </font>
             </Label>
-            <Pane layoutY="66.0" prefHeight="276.0" prefWidth="741.0" style="-fx-border-color: #ff8533;" />
-            <Button fx:id="pane" layoutX="117.0" layoutY="355.0" mnemonicParsing="false" onAction="#Scene1Action" text="Button" />
-            <Button layoutX="218.0" layoutY="355.0" mnemonicParsing="false" text="Button" />
-            <Button layoutX="326.0" layoutY="355.0" mnemonicParsing="false" text="Button" />
-            <Button layoutX="431.0" layoutY="355.0" mnemonicParsing="false" text="Button" />
-            <Button layoutX="523.0" layoutY="355.0" mnemonicParsing="false" text="Button" />
+            <Pane fx:id="pane" layoutY="39.0" prefHeight="276.0" prefWidth="741.0" style="-fx-border-color: #ff8533;" />
+            <Button layoutX="121.0" layoutY="331.0" mnemonicParsing="false" onAction="#scene1Action" text="Button" />
+            <Button layoutX="218.0" layoutY="331.0" mnemonicParsing="false" onAction="#scene2Action" text="Button" />
+            <Button layoutX="328.0" layoutY="331.0" mnemonicParsing="false" onAction="#scene3Action" text="Button" />
+            <Button layoutX="435.0" layoutY="331.0" mnemonicParsing="false" onAction="#scene4Action" text="Button" />
+            <Button layoutX="525.0" layoutY="331.0" mnemonicParsing="false" onAction="#scene5Action" text="Button" />
          </children>
       </AnchorPane>
    </children>
