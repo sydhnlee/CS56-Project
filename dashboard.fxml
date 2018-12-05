@@ -6,7 +6,8 @@ Basic looking just for now.
 Was not able to find pagination uses with fxml files. It was mostly for printing data.
 So i tried to create something similar to pagination.
 
-
+Update: Added a temporary look to the design if you want to change it you can.
+        Imgur link to view picture of the design: https://imgur.com/a/CkQNmsA
 */
 
 <?xml version="1.0" encoding="UTF-8"?>
